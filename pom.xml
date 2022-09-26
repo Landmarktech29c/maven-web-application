@@ -103,7 +103,7 @@
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.85.184.136:8191/landmark/repository/tesla-fe-Snapshots/</url>
-	    </ReleaseRepository>
+	    </releaseRepository>
 	    
 	</distributionManagement>
 	
